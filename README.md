@@ -48,6 +48,3 @@ python infer.py --checkpoint /path/to/mapcrop.pt \
 
 The output contains ranked crop images and their original-image coordinates in `crops.json`.
 
-## Acknowledgments
-
-This project builds on [VMamba](https://github.com/MzeroMiko/VMamba), [DINOv2](https://github.com/facebookresearch/dinov2), [Conditional DETR](https://github.com/Atten4Vis/ConditionalDETR), and the [AesCrop](https://arxiv.org/abs/2510.22528) framework. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for third-party attribution.
